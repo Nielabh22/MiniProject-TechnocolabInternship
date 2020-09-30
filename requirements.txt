@@ -13,7 +13,7 @@ pyowm==2.10.0
 pyparsing==2.4.7
 PyQt5==5.13.2
 PyQt5-sip==12.8.1
-pyqt5-tools==5.13.2.1.6rc1
+pyqt5-tools==5.14.0.1.7b3
 PySocks==1.7.1
 python-dateutil==2.8.1
 python-dotenv==0.14.0
